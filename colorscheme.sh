@@ -31,5 +31,5 @@ fi
 $(echo ${next_color} > "${curr_color_file}")
 echo "Picking next color: ${next_color}"
 
-cat ~/.config/alacritty/base.yml ~/.config/alacritty/themes/${next_color} > ~/.config/alacritty/alacritty.yml
+cat ~/.config/alacritty/base.toml ~/.config/alacritty/themes/${next_color} > ~/.config/alacritty/alacritty.toml
 

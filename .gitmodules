@@ -1,0 +1,3 @@
+[submodule "colorschemer"]
+	path = colorschemer
+	url = https://github.com/polizz/colorschemer
