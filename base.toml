@@ -16,3 +16,4 @@ style = "Medium"
 
 [window]
 opacity = 0.9
+padding = { x = 3, y = 3 }
