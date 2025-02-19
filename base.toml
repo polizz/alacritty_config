@@ -16,4 +16,5 @@ style = "Medium"
 
 [window]
 opacity = 0.9
-padding = { x = 3, y = 3 }
+# padding = { x = 1, y = 3 }
+dynamic_padding = true
